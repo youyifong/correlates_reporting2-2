@@ -1836,8 +1836,8 @@ D31toM12_nextgen_mock_Infection_nasal:
 
 D31toM12_nextgen_mock_Infection_PBMC:
   ph1: ph1.AB.D31_7
-  ph2: ph2.inf.AB.D31_7
-  wt:  wt.inf.AB.D31_7
+  ph2: ph2.AB.D31_7
+  wt:  wt.AB.D31_7
   WtStratum: Wstratum
   EventIndPrimary:  InfectionIndD31_7toM12
   EventTimePrimary: InfectionTimeD31toM12
@@ -1881,8 +1881,8 @@ D31toM5_nextgen_mock_Infection_nasal:
 
 D31toM5_nextgen_mock_Infection_PBMC:
   ph1: ph1.AB.D31_7
-  ph2: ph2.inf.AB.D31_7
-  wt:  wt.inf.AB.D31_7
+  ph2: ph2.AB.D31_7
+  wt:  wt.AB.D31_7
   WtStratum: Wstratum
   EventIndPrimary:  InfectionIndD31_7toM5
   EventTimePrimary: InfectionTimeD31toM5
